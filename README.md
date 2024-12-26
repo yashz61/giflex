@@ -8,6 +8,7 @@
   <li>React</li>
   <li>tailwind CSS</li>
   <li>Javascript</li>
+  <li>HTML</li>
 </ol>
 
 <h1>Features:</h1>
